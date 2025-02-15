@@ -16,9 +16,9 @@ This project implements a machine learning model for recognizing handwritten dig
 Downloaded dataset from UCI Repository.
 
 ### Data Preprocessing:
-Normalization and standardization of pixel values.
-Outlier detection using Z-score.
-Missing value analysis (confirmed no missing values).
+  Normalization and standardization of pixel values.
+  Outlier detection using Z-score.
+  Missing value analysis (confirmed no missing values).
 
 ### Dimensionality Reduction:
 Applied PCA to retain 95% of variance.
