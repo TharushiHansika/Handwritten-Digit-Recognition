@@ -5,10 +5,10 @@ This project implements a machine learning model for recognizing handwritten dig
 
 # Dataset
 
-Source: UCI Machine Learning Repository
-Instances: 5,620
-Features: 64 numerical pixel intensities
-Classes: Digits from 0 to 9
+-Source: UCI Machine Learning Repository
+-Instances: 5,620
+-Features: 64 numerical pixel intensities
+-Classes: Digits from 0 to 9
 
 # Methodology
 
