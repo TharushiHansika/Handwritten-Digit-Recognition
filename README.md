@@ -16,29 +16,29 @@ This project implements a machine learning model for recognizing handwritten dig
 Downloaded dataset from UCI Repository.
 
 ### Data Preprocessing:
-  Normalization and standardization of pixel values.
-  Outlier detection using Z-score.
-  Missing value analysis (confirmed no missing values).
+-  Normalization and standardization of pixel values.
+-  Outlier detection using Z-score.
+-  Missing value analysis (confirmed no missing values).
 
 ### Dimensionality Reduction:
-Applied PCA to retain 95% of variance.
+- Applied PCA to retain 95% of variance.
 
 ### Feature Selection:
-Used Chi-squared test and LassoCV to identify important features.
+ Used Chi-squared test and LassoCV to identify important features.
 
 ### Model Selection & Training:
-Evaluated four models: Decision Tree, k-NN, SVM, and Random Forest.
-Random Forest achieved the highest accuracy (98.58%).
+- Evaluated four models: Decision Tree, k-NN, SVM, and Random Forest.
+- Random Forest achieved the highest accuracy (98.58%).
 
 ### Model Evaluation:
-Compared models using accuracy, classification reports, and confusion matrices.
-Final model was tested on unseen data.
+- Compared models using accuracy, classification reports, and confusion matrices.
+- Final model was tested on unseen data.
 
 # Results
 
-Best Model: Random Forest
-Validation Accuracy: 97.86%
-Test Accuracy: 98.58%
+- Best Model: Random Forest
+- Validation Accuracy: 97.86%
+- Test Accuracy: 98.58%
 
 # Conclusion: 
 
@@ -51,14 +51,14 @@ https://github.com/TharushiHansika/Handwritten-Digit-Recognition.git
 
 # Dependencies
 
-Python 3.x
-NumPy
-Pandas
-Scikit-Learn
-Matplotlib
-Seaborn
+- Python 3.x
+- NumPy
+- Pandas
+- Scikit-Learn
+- Matplotlib
+- Seaborn
 
 # Author
 
-Arachchi T.H.L.
-Feel free to contribute or raise issues in the repository!
+- Arachchi T.H.L.
+- Feel free to contribute or raise issues in the repository!
